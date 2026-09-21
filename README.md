@@ -114,7 +114,7 @@ Executive Insights
 
 
 
-## 🗄️ SQL Analysis
+**## 🗄️ SQL Analysis**
 
 The SQL analysis creates several business intelligence views from the retail transaction data.
 
@@ -244,7 +244,7 @@ This provides an additional operational KPI for the executive dashboard.
 
 ---
 
-## 📊 Dashboard
+**## 📊 Dashboard**
 
 The Power BI dashboard is designed as an **executive-style Business Intelligence dashboard**.
 
@@ -288,7 +288,7 @@ The dashboard will support filters such as:
 
 ---
 
-## 💡 Key Business Questions
+**## 💡 Key Business Questions**
 
 The project is designed to answer the following business questions:
 
@@ -307,7 +307,7 @@ The project is designed to answer the following business questions:
 
 ---
 
-## 📁 Repository Structure
+**## 📁 Repository Structure**
 
 ```text
 sql-business-intelligence-executive-analytics-dashboard/
@@ -318,7 +318,8 @@ sql-business-intelligence-executive-analytics-dashboard/
 │
 └── dashboard/
     └── dashboard_screenshot.png
-## 📈 Business Intelligence Approach
+
+**## 📈 Business Intelligence Approach**
 
 The project follows a simple BI architecture:
 
@@ -340,7 +341,7 @@ Executive-level insights derived from the dashboard.
 
 ---
 
-## 🚀 Future Improvements
+**##  Future Improvements**
 
 Future improvements may include:
 
@@ -356,13 +357,13 @@ Future improvements may include:
 
 ---
 
-## 👩‍💻 Author
+**## 👩‍💻 Author**
 
-### Lubna Shireen R
+**### Lubna Shireen R**
 
-**B.Tech – Electronics & Communication Engineering | Data Science**
+****B.Tech – Electronics & Communication Engineering | Data Science****
 
-Interested in:
+**Interested in:**
 
 - Data Analytics
 - Business Intelligence
