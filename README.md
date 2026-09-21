@@ -57,7 +57,7 @@ The dataset contains transactional records from a UK-based online retail busines
 
 **UCI Machine Learning Repository – Online Retail II**
 
-https://archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii
+[https://archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii](https://archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii)
 
 > The original dataset is not included in this repository because of GitHub file-size limitations.
 
@@ -66,6 +66,7 @@ https://archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii
 ## 🛠️ Tools & Technologies
 
 ### SQL
+
 - MySQL
 - MySQL Workbench
 - SQL Views
@@ -81,6 +82,7 @@ https://archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii
 - Subqueries
 
 ### Data Visualization
+
 - Power BI
 - Interactive dashboards
 - KPI cards
@@ -89,6 +91,7 @@ https://archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii
 - Slicers
 
 ### Data Preparation
+
 - Microsoft Excel
 - CSV
 - Data cleaning and transformation
@@ -111,9 +114,11 @@ Business Intelligence Views
 Power BI Dashboard
         ↓
 Executive Insights
-```text
+```
 
-**## 🗄️ SQL Analysis**
+---
+
+## 🗄️ SQL Analysis
 
 The SQL analysis creates several business intelligence views from the retail transaction data.
 
@@ -127,7 +132,7 @@ The `executive_kpis` view provides the main business performance indicators:
 - Units Sold
 - Average Order Value
 
-Example output:
+### Example Output
 
 | KPI | Value |
 |---|---:|
@@ -243,11 +248,9 @@ This provides an additional operational KPI for the executive dashboard.
 
 ---
 
-**## 📊 Dashboard**
+## 📊 Dashboard
 
 The Power BI dashboard is designed as an **executive-style Business Intelligence dashboard**.
-
-The planned dashboard structure includes:
 
 ### KPI Section
 
@@ -287,7 +290,7 @@ The dashboard will support filters such as:
 
 ---
 
-**## 💡 Key Business Questions**
+## 💡 Key Business Questions
 
 The project is designed to answer the following business questions:
 
@@ -306,7 +309,7 @@ The project is designed to answer the following business questions:
 
 ---
 
-**## 📁 Repository Structure**
+## 📁 Repository Structure
 
 ```text
 sql-business-intelligence-executive-analytics-dashboard/
@@ -317,8 +320,32 @@ sql-business-intelligence-executive-analytics-dashboard/
 │
 └── dashboard/
     └── dashboard_screenshot.png
+```
 
-**## 📈 Business Intelligence Approach**
+> The original large cleaned dataset is intentionally excluded from the repository because of GitHub file-size limitations.
+
+---
+
+## 🔍 SQL Views Created
+
+The project currently contains the following analytical views:
+
+```text
+executive_kpis
+monthly_sales
+yearly_sales
+country_sales
+top_products
+customer_segments
+customer_sales
+cancellation_summary
+```
+
+These views create a reusable SQL-based business intelligence layer between the raw transactional data and the visualization layer.
+
+---
+
+## 📈 Business Intelligence Approach
 
 The project follows a simple BI architecture:
 
@@ -340,7 +367,7 @@ Executive-level insights derived from the dashboard.
 
 ---
 
-**##  Future Improvements**
+## 🚀 Future Improvements
 
 Future improvements may include:
 
@@ -356,13 +383,13 @@ Future improvements may include:
 
 ---
 
-**## 👩‍💻 Author**
+## 👩‍💻 Author
 
-**### Lubna Shireen R**
+### Lubna Shireen R
 
-****B.Tech – Electronics & Communication Engineering | Data Science****
+**B.Tech – Electronics & Communication Engineering | Data Science**
 
-**Interested in:**
+Interested in:
 
 - Data Analytics
 - Business Intelligence
@@ -370,3 +397,7 @@ Future improvements may include:
 - SQL
 - Power BI
 - Machine Learning
+
+---
+
+⭐ If you found this project useful, feel free to explore the repository and connect with me.
