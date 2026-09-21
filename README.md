@@ -112,6 +112,8 @@ Power BI Dashboard
         ↓
 Executive Insights
 
+---
+
 
 
 **## 🗄️ SQL Analysis**
