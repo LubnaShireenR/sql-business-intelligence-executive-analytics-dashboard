@@ -112,6 +112,8 @@ Power BI Dashboard
         ↓
 Executive Insights
 
+
+
 ## 🗄️ SQL Analysis
 
 The SQL analysis creates several business intelligence views from the retail transaction data.
